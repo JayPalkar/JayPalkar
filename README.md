@@ -1,7 +1,7 @@
 [![MasterHead](https://www.lovelocaldesign.com/wp-content/uploads/2016/09/process-dev-banner2.gif)]()
 <h1 align="center">Hi 👋, I'm Jay Palkar</h1>
 <h3 align="center">A passionate full stack developer</h3>
-(img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif")
+<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypalkar&label=Profile%20views&color=0e75b6&style=flat" alt="jaypalkar" /> </p>
 
