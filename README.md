@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypalkar&show_icons=true&locale=en&layout=compact" alt="jaypalkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaypalkar&show_icons=true&locale=en" alt="jaypalkar" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaypalkar&" alt="jaypalkar" /></p>
