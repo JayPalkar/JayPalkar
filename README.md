@@ -1,6 +1,4 @@
 # ✨ A passionate full-stack developer ✨
-<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-palkar-26b551220/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaypalkar654@gmail.com) 
