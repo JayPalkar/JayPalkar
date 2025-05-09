@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayPalkar&theme=dark&hide)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayPalkar&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayPalkar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayPalkar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&height=20px)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JayPalkar&theme=radical&no-frame=true&no-bg=true&margin-w=4)
